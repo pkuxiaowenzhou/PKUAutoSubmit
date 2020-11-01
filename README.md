@@ -1,5 +1,5 @@
 # PKUAutoSubmit (modified)
-我不想备案
+我要备案
 
 **UPDATE 2020/10/18**
 
